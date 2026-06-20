@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aktilesgop.com/sitemap.xml
