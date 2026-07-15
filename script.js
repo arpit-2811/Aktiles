@@ -53,7 +53,25 @@ document.addEventListener('DOMContentLoaded', () => {
             "WhatsApp Image 2026-06-16 at 4.19.44 PM.jpeg",
             "WhatsApp Image 2026-06-16 at 4.19.46 PM (1).jpeg",
             "WhatsApp Image 2026-06-16 at 4.19.46 PM (2).jpeg",
-            "WhatsApp Image 2026-06-16 at 4.19.46 PM.jpeg"
+            "WhatsApp Image 2026-06-16 at 4.19.46 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.27.37 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.27.38 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.29.52 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.02 PM (1).jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.02 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.03 PM (1).jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.03 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.07 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.08 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.09 PM (1).jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.09 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.10 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.11 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.30.13 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.32.28 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.34.02 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.36.10 PM.jpeg",
+            "WhatsApp Image 2026-07-14 at 4.36.35 PM.jpeg"
         ];
         
         let html = '';
